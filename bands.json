@@ -14,7 +14,7 @@
   "contact": {
     "facebook": "https://www.facebook.com/ageofshadowsband"
   },
-  "availability": "Weekends"	
+  "availability": "Weekends"  
 },
 {
   "name": "ALBERTO ALASKA",
@@ -24,7 +24,7 @@
     "email": "albertoalaskamusic@gmail.com", 
     "facebook": "https://www.facebook.com/albertoalaskamusic"
   },
-  "availability": "ANY"		
+  "availability": "ANY"   
 },
 {
   "name": "Almost Jazz",
@@ -55,7 +55,7 @@
   "city": "Rochester",
   "contact":{
     "facebook": "https://www.facebook.com/ApparatusNy"
-	},
+  },
   "availability": "Open"
 },
 {
@@ -76,7 +76,7 @@
   "contact": {
     "emaiL": "brian.chmiel@yahoo.com" 
   },
-  "availability": "Open"	
+  "availability": "Open"  
 },
 {
   "name": "Astronauts Wanted",
@@ -92,7 +92,7 @@
   "genres": "Hardcore",
   "city": "Rochester",
   "contact": {
- 	  "email": "borrowedtimehc@gmail.com",
+    "email": "borrowedtimehc@gmail.com",
     "facebook": "http://www.facebook.com/BorrowedTimeHC",
     "reverbnation": "http://www.reverbnation.com/BorrowedTimeHC",
     "mearch": "http://www.surfacerecords.net"
@@ -152,7 +152,7 @@
 },
 {
   "name": "Death Wont Hold",
-  "genre": ["Metal","Heavy Death","Hardcore"],
+  "genres": ["Metal","Heavy Death","Hardcore"],
   "city": "Rochester",
   "contact": {
     "email": "DeathWontHold2015@gmail.com",
@@ -161,471 +161,574 @@
   "availability": "Contact us please"
 },
 {
-Name: Diluted
-Genre: Alternative metal
-Location: Rochester/Fredonia
-Contact Info: coff0714@fredonia.edu, https://www.facebook.com/DilutedBand
-Show Availability: Weekends
+  "name": "Diluted",
+  "genres": "Alternative metal",
+  "city": ["Rochester","Fredonia"],
+  "contact" : {
+    "email": "coff0714@fredonia.edu",
+    "facebook": "https://www.facebook.com/DilutedBand"
+  },
+  "availability": "Weekends"
 },
 {
-Name: Dividing The Skyline 
-Genre: Pop-Rock
-location: Pittsford
-Contact Info: nateblasdell@gmail.com
-Availability: Full
+  "name": "Dividing The Skyline",
+  "genres": "Pop-Rock",
+  "city": "Pittsford",
+  "contact": "nateblasdell@gmail.com",
+  "availability": "Full"
 },
 {
-Name: Doug Berl and Monkey Scream Project
-Genre: Original Jam/Americana
-Location: Rochester
-Contact Info: www.reverbnation.com/monkeyscreamproject
-Show Availability: Contact for dates
+  "name": "Doug Berl and Monkey Scream Project",
+  "genres": ["Original Jam","Americana"],
+  "location": "Rochester",
+  "contact": "www.reverbnation.com/monkeyscreamproject",
+  "availability": "Contact for dates"
 },
 {
-Name: Drive me home, please
-Genre: Bedroom pop
-Location: Geneseo/Fairport
-Contact Info: zth1@geneseo.edu
-Website: https://drivemehomeplease.bandcamp.com
-Show Availability: Ask
+  "name": "Drive me home, please",
+  "genres": "Bedroom pop",
+  "city": ["Geneseo","Fairport"],
+  "contact": {
+    "email": "zth1@geneseo.edu",
+    "website": "https://drivemehomeplease.bandcamp.com"
+    },
+  "availability": "Ask"
 },
 {
-Name: Dust & Bone
-Genre: Rock & Blues
-Location: Rochester
-Contact Info: http://www.reverbnation.com/dustbone 585.746.6540
-Show Availability: Open
+  "name": "Dust & Bone",
+  "genres": ["Rock" "Blues"],
+  "city": "Rochester",
+  "contact": {
+    "http://www.reverbnation.com/dustbone"
+  },
+  "availability": "Open"
 },
 {
-Name: Elephino
-Genre: Upbeat Folk-rock/Indie/Bluegrass with hints of Pop, Punk, and Soul...
-... or something like that
-Instrumentation: Acoustic guitar, fiddle, banjo, drums, baritone ukelele, 
-bass, harmonica, washboard, lots of vocal harmonies.
-Location: Rochester
-Contact Info: Timothycbraley@gmail.com
-Facebook: www.facebook.com/elephinorochester
-Show Availability: Send message
+  "name": "Elephino",
+  "genres": ["Upbeat", "Folk-rock","Indie","Bluegrass", "Pop", "Punk", "Soul"],
+  "about": "Instrumentation: Acoustic guitar, fiddle, banjo, drums, baritone ukelele, 
+    bass, harmonica, washboard, lots of vocal harmonies.",
+  "city": "Rochester",
+  "contact": {
+    "email": "Timothycbraley@gmail.com",
+    "facebook": "www.facebook.com/elephinorochester"
+  },
+  "availability": "Send message"
 },
 {
- Name: Emoira
- Genre: Beatdown Hardcore
- Location: Rochester
- Contact Info: emoira585@gmail.com
- Facebook: www.facebook.com/emoira585
- Show Availability: Ask
+  "name": "Emoira",
+  "genres": "Beatdown Hrdcore",
+  "city": "Rochester",
+  "contact": {
+     "email": "emoira585@gmail.com",
+     "facebook": "www.facebook.com/emoira585"
+  },
+  "availability": "Ask"
 },
 {
-Name: Fiona Corinne 
-Genre: Acoustic Pop/Rock, Singer-Songwriter
-Location: Rochester, NY
-Contact Info: info@FionaCorinne.com / Facebook.com/FionaCorinneMusic
-Show Availability: Any
+  "name": "Fiona Corinne",
+  "genres": ["Acoustic", "Pop","Rock", "Singer-Songwriter"],
+  "city": "Rochester",
+  "contact": {
+    "email": "info@FionaCorinne.com", 
+    "facebook": "Facebook.com/FionaCorinneMusic"
+  },
+  "availability": "Any"
 },
 {
-
-Name: The Forever Era
-Genre: Alternative Rock
-Location: Rochester
-Contact Info: lynchisin@live.com, www.facebook.com/theforeverera
-Show Availability: Open
+  "name": "The Forever Era",
+  "genres": "Alternative Rock",
+  "city": "Rochester",
+  "contact": {
+    "email": "lynchisin@live.com", 
+    "facebook": "www.facebook.com/theforeverera"
+  },
+  "availability": "Open"
 },
 {
-Name: Full Body
-Genre: sardonic songs. loud rock/shoegaze
-Location: Rochester
-Contact Info: dylanvaisey@gmail.com
-Website: fullbody.bandcamp.com
-Show Availability: always
+  "name": "Full Body",
+  "genres": ["sardonic songs", "loud rock", "shoegaze"],
+  "city": "Rochester",
+  "contact": {
+    "email": "dylanvaisey@gmail.com",
+    "bandcamp": "fullbody.bandcamp.com"
+  },
+  "availability": "always"
 },
 {
-Name: Glass Hearts
-Genre: Post-Hardcore
-Location: Buffalo
-Contact Info: glassheartsband@gmail.com
-Show Availability: Open
-Facebook: www.facebook.com/glassheartsband
-Twitter/Instagram/Reverbnation/etc: glassheartsband
+  "name": "Glass Hearts",
+  "genres": "Post-Hardcore",
+  "city": "Buffalo",
+  "contact": {
+    "email": "glassheartsband@gmail.com",
+    "facebook": "www.facebook.com/glassheartsband",
+    "twitter": "www.twitter.com/glassheartsband",
+    "instagram": "www.instagram.com/glassheartsband",
+    "reverbnation": "www.reverbnation.com/glassheatrsband"
+    },
+  "availability": "Open"
 },
 {
-Name: Goemagot
-Genre: Slamming Brutal Technical Death Metal
-Location: Rochester
-Contact Info: goemagot@ymail.com
-Show Availability: Open
-Facebook: www.facebook.com/goemagot
-Twitter/Instagram/Reverbnation/etc: Search "Goemagot"
+  "name": "Goemagot",
+  "genres": ["Slamming", "Brutal", "Technical", "Death Metal"],
+  "city": "Rochester",
+  "contact": {
+    "email": "goemagot@ymail.com",
+    "facebook": "www.facebook.com/goemagot",
+    "twitter": "www.twitter.com/goemagot",
+    "instagram": "www.instagram.com/goemagot",
+    "reverbnation": "www.reverbnation.com/Goemagot"
+    },
+  "availability": "Open"
 },
 {
-Name: Heatseeker
-Genre: Rock
-Location: Rochester
-Contact Info: nbeproductions@hotmail.com
-Facebook: http://www.facebook.com/HeatseekerMusic
-Reverbnation: http://www.reverbnation.com/HeatseekerMusic
-Music & Merch: http://www.surfacerecords.net
-Show Availability: Open
+  "name": "Heatseeker",
+  "genres": "Rock",
+  "city": "Rochester",
+  "contact": {
+    "email": "nbeproductions@hotmail.com",
+    "facebook": "http://www.facebook.com/HeatseekerMusic",
+    "reverbnation": "http://www.reverbnation.com/HeatseekerMusic",
+    "merch": "http://www.surfacerecords.net"
+  },
+  "availability": "Open"
 },
 {
-Name: Hideout
-Genre: Melodic Punk, Hardcore
-Location: Rochester
-Contact Info: hideoutny@gmail.com
-Facebook: facebook.com/hideoutny
-Twitter/Instagram: @Hideoutny
-Music: hideoutny.bandcamp.com
-Merch: hideoutny.bigcartel.com
-Youtube: https://www.youtube.com/user/hideoutny
-Show Availability: Contact
+  "name": "Hideout",
+  "genres": ["Melodic Punk", "Hardcore"],
+  "city": "Rochester",
+  "contact": {
+    "email": "hideoutny@gmail.com",
+    "facebook": "facebook.com/hideoutny",
+    "twitter": "www.twitter.com/Hideoutny",
+    "instagram": "www.instagram.com/Hideoutny",
+    "bandcamp": "hideoutny.bandcamp.com",
+    "merch": "hideoutny.bigcartel.com",
+    "youtube": "https://www.youtube.com/user/hideoutny"
+  },
+  "availability": "Contact"
 },
 {
-Name: Honest John
-Genre: Acoustic Rock, Blues, Alternative & Country
-Location: Rochester
-Contact Info: www.facebook.com/honestjohnrochester , honestjohn@rocketpossum.com
-Show Availability: Any
+  "name": "Honest John",
+  "genres": ["Acoustic Rock", "Blues", "Alternative & Country"],
+  "city": "Rochester",
+  "contact": {
+    "facebook": "www.facebook.com/honestjohnrochester", 
+    "email": "honestjohn@rocketpossum.com"
+  },
+  "availability": "Any"
 },
 {
-Name: Into the Harbor
-Genre: Metalcore
-Location: Rochester
-Contact Info: nick.ssnagency@gmail.com or intotheharbor@gmail.com
-Facebook: http://www.facebook.com/intotheharbor
-Twitter: http://twitter.com/intotheharbor
-Music: intotheharbor.bandcamp.com or search us on YouTube
-Merch: http://intotheharbor.bigcartel.com/
-Show Availability: Contact Us
+  "name": "Into the Harbor",
+  "genres": "Metalcore",
+  "city": "Rochester",
+  "contact": {
+    "email": "intotheharbor@gmail.com",
+    "facebook": "http://www.facebook.com/intotheharbor",
+    "twitter": "http://twitter.com/intotheharbor",
+    "bandcamp": "intotheharbor.bandcamp.com",
+    "merch": "http://intotheharbor.bigcartel.com/"
+  },
+  "availability": "Contact Us"
 },
 {
-Name: Intrinsic
-Genre: Heavy Rock/Punk/Subvert
-Location: Rochester
-Contact Info: www.facebook.com/mykelbellanca
-Show Availability: Weekends
-Facebook: www.facebook.com/intrinsicrock
-Bandcamp: www.intrinsicmusic.bandcamp.com
+  "name": "Intrinsic",
+  "genres": ["Heavy Rock","Punk","Subvert"],
+  "city": "Rochester",
+  "contact": {    
+    "facebook": "www.facebook.com/intrinsicrock",
+    "bandcamp": "www.intrinsicmusic.bandcamp.com"
+  },
+  "availability": "Weekends"
 },
 {
-Name: The Isotopes
-Genre: Face-melting instrumental rock 'n roll
-Location: Rochester
-Contact Info: www.facebook.com/theisotopes , spitbeer@theisotopes.com
-Show Availability: Any
+  "name": "The Isotopes",
+  "genres": ["Face-melting", "instrumental", "rock 'n roll"],
+  "city": "Rochester",
+  "contact": {
+    "facebook" : "www.facebook.com/theisotopes", 
+    "email": "spitbeer@theisotopes.com"
+    },
+  "availability": "Any"
 },
 {
-Name: KING BUFFALO
-Genre: Stoner / Psychedelic / Desert / Heavy Blues Rock
-Location: Rochester, NY
-Contact Info: kingbuffalolives@gmail.com
-Website: kingbuffalo.com 
-Facebook: fb.com/kingbuffalolives 
-Bandcamp: kingbuffalo.bandcamp.com
-Show Availability: Ask
+  "name": "KING BUFFALO",
+  "genres": ["Stoner", "Psychedelic", "Desert", "Heavy Blues Rock"],
+  "city": "Rochester, NY",
+  "contact": {
+    "email": "kingbuffalolives@gmail.com",
+    "website": "kingbuffalo.com",
+    "facebook": "fb.com/kingbuffalolives", 
+    "bandcamp": "kingbuffalo.bandcamp.com"
+  },
+  "availability": "Ask"
 },
 {
-Name: Komrads
-Genre: EDM/Shoegaze
-Location: Canandaigua
-Contact Info: https://www.facebook.com/komradsofficial
-Show Availability: Weekends
+  "name": "Komrads",
+  "genres": ["EDM","Shoegaze"],
+  "city": "Canandaigua",
+  "contact": {
+    "facebook": "https://www.facebook.com/komradsofficial"
+  },
+  "availability": "Weekends"
 },
 {
-Name:Lighters
-Genre: Pop Punk/Emo
-Location: Rochester
-Contact Info: https://www.facebook.com/Lighters585
-Bandcamp: https://lighters585.bandcamp.com/
-Show Availability: Open
+  "name":"Lighters",
+  "genres": ["Pop Punk", "Emo"],
+  "city": "Rochester",
+  "contact": {
+    "email": "https://www.facebook.com/Lighters585",
+    "bandcamp": "https://lighters585.bandcamp.com"
+  },
+  "availability": "Open"
 },
 { 
-Name: Lupis
-Genre: Heavy Rock/Alternative/Subvert
-Location: Rochester
-Contact Info: www.facebook.com/mykelbellanca
-Show Availability: Any Day
-Facebook: www.facebook.com/391571430937143
-Bandcamp: www.lupismusic.bandcamp.com
+  "name": "Lupis",
+  "genres": ["Heavy Rock","Alternative","Subvert"],
+  "city": "Rochester",
+  "contact": {
+    "email": "www.facebook.com/mykelbellanca",
+    "facebook": "www.facebook.com/391571430937143",
+    "bandcamp": "www.lupismusic.bandcamp.com"
+  },
+  "availability": "Any"
 },
 {
-
-Name: Miles Wide
-Genre: Beautiful Rock / Solo Acoustic Singer-Songwriter
-Location: RochesterWebsite: mileswide.com 
-Contact Info: mileswidemusic@gmail.com, https://www.facebook.com/mileswidemusic
-Show Availability: ASK
+  "name": "Miles Wide",
+  "genres": ["Beautiful Rock","Solo", "Acoustic", "Singer-Songwriter"],
+  "city": "Rochester",
+  "contact": {
+    "email": "mileswidemusic@gmail.com", 
+    "facebook": "https://www.facebook.com/mileswidemusic",
+    "website": "mileswide.com" 
+  },
+  "availability": "ASK"
 },
 {
-Name: The Mojo Benders
-Genre: Rock / Blues
-Location: Rochester 
-Website: themojobenders.com
-Twitter: http://twitter.com/#!/themojobenders
-Facebook: http://www.facebook.com/themojobenders
-Contact Info: theband@themojobenders.com
-Show Availability: ASK
+  "name": "The Mojo Benders",
+  "genres": ["Rock", "Blues"],
+  "city": "Rochester",
+  "contact": {
+    "website": "themojobenders.com",
+    "twitter": "http://twitter.com/#!/themojobenders",
+    "facebook": "http://www.facebook.com/themojobenders",
+    "email": "theband@themojobenders.com"
+  },
+  "availability": "ASK"
 },
 {
-Name: Misled
-Genre: Metal/Hard
-Location: Rochester
-Contact Info: Misled585@gmail.com
-Show Availability: Open
+  "name": "Misled",
+  "genres": ["Metal","Hard"],
+  "city": "Rochester",
+  "contact": "Misled585@gmail.com",
+  "availability": "Open"
 },
 {
-Name: Nathan Harris
-Genre: Progressive Metal/Hardcore
-Location: Rochester
-Contact Info: nharris6@mail.naz.edu
-Facebook: https://www.facebook.com/foreveralwaysband
-Show Availability: None for the time being
+  "name": "Nathan Harris",
+  "genres": ["Progressive Metal","Hardcore"],
+  "city": "Rochester",
+  "Contact Info": {
+    "email": "nharris6@mail.naz.edu",
+    "facebook": "https://www.facebook.com/foreveralwaysband"
+  },
+  "availability": "None for the time being"
 },
 {
-	Name: Nazgûl
-Genre: Symphonic/Avant Garde Black Metal
-Location: Rochester
-Contact Info: https://www.facebook.com/nazgulmusic
-Show Availability: Ask  
+  "name": "Nazgûl",
+  "genre": ["Symphonic", "Avant Garde", "Black Metal"],
+  "city": "Rochester",
+  "contact": {
+    "facebook": "https://www.facebook.com/nazgulmusic"
+  },  
+  "availability": "Ask"  
 },
 {
-Name: New Masons
-Genre: Indie Pop Rock
-Location: Fredonia/Rochester
-Contact Info: gonz6091@fredonia.edu
-EPK: http://artistecard.com/FredoniaNewMasons
-Show Availability: Open
+  "name": "New Masons",
+  "genres": ["Indie", "Pop", "Rock"],
+  "city": ["Fredonia","Rochester"],
+  "contact": {
+    "email": "gonz6091@fredonia.edu",
+    "website": "http://artistecard.com/FredoniaNewMasons"
+  },
+  "availability": "Open"
 },
 {
-Name: Nuances
-Genre: Post-Hardcore/Post-Rock
-Location: Rochester/Canandaigua
-Contact Info: westbrookfan08@aol.com
-Facebook: https://www.facebook.com/nuancesny
-Show Availability: Open 
+  "name": "Nuances",
+  "genres": ["Post-Hardcore","Post-Rock"],
+  "city": ["Rochester","Canandaigua"],
+  "contact": {
+    "email": "westbrookfan08@aol.com",
+    "facebook": "https://www.facebook.com/nuancesny"
+    },
+  "availability": "Open" 
 },
 {
-Name: Obscured Surroundings
-Genre: Progressive/Indie Rock/Subvert
-Location: Rochester
-Contact Info: www.facebook.com/mykelbellanca
-Show Availability: Weekends
-Facebook: www.facebook.com/ObscurredSurroundings
-Bandcamp: www.obscuredsurroundings.bandcamp.com
+  "name": "Obscured Surroundings",
+  "genres": ["Progressive","Indie Rock","Subvert"],
+  "city": "Rochester",
+  "contact": {
+    "email": "www.facebook.com/mykelbellanca",
+    "facebook": "www.facebook.com/ObscurredSurroundings",
+    "bandcamp": "www.obscuredsurroundings.bandcamp.com"
+  },
+  "availability": "Weekends"
 },
 { 
-
-Name: Order of the Dead
-Genre: Metal
-Location: Rochester
-Contact Info: orderofthedead@outlook.com
-Facebook: https://www.facebook.com/OrderoftheDead
-Reverbnation: http://www.reverbnation.com/orderofthedead
-YouTube: https://www.youtube.com/watch?v=_kiLW1IBShk
-Music & Merch: http://orderofthedead.bigcartel.com/
-iTunes: https://itunes.apple.com/us/album/a-black-curse-comes-ep/id923098564
-Show Availability: Email us
+  "name": "Order of the Dead",
+  "genres": "Metal",
+  "city": "Rochester",
+  "contact": {
+    "email": "orderofthedead@outlook.com",
+    "facebook": "https://www.facebook.com/OrderoftheDead",
+    "reverbnation": "http://www.reverbnation.com/orderofthedead",
+    "youtube": "https://www.youtube.com/watch?v=_kiLW1IBShk",
+    "merch": "http://orderofthedead.bigcartel.com/",
+    "itunes": "https://itunes.apple.com/us/album/a-black-curse-comes-ep/id923098564"
+  },
+  "availability": "Email us"
 },
 {
- Name: Parkerhouse Road 
-Genre: Hard Rock
-Location: Rochester
-Contact Info: www.facebook.com/parkerhouseroad
-Show Availability: Ask
+ "name": "Parkerhouse Road",
+  "genres": "Hard Rock",
+  "city": "Rochester",
+  "contact": {
+    "facebook": "www.facebook.com/parkerhouseroad"
+  },
+  "availability": "Ask"
 },
 {
-Name: Pawner
-Genre: Alternative Rock
-Location: Rochester
-Contact Info: pawnerband@gmail.com
-Facebook: https://www.facebook.com/pawnerband
-Show Availability: Ask  
+  "name": "Pawner",
+  "genres": "Alternative Rock",
+  "city": "Rochester",
+  "contact": {
+    "email": "pawnerband@gmail.com",
+    "facebook": "https://www.facebook.com/pawnerband"
+  },
+  "availability": "Ask"  
 },
 {
-Name: People Can Be More Awesome
-Genre: Indie Rock
-Location: Rochester
-Contact Info: fb.com/PeopleCanBeMoreAwesome
-Show Availability: Open
+  "name": "People Can Be More Awesome",
+  "genres": "Indie Rock",
+  "city": "Rochester",
+  "contact": {
+    "facebook": "fb.com/PeopleCanBeMoreAwesome"
+  },
+  "availability": "Open"
 },
 {
-Name: PUSH
-Genre: 90's to Modern Rock
-Location: Rochester
-Contact Info: mikelord14610@yahoo.com
-Show Availability: Open
+  "name": "PUSH",
+  "genres": ["90s", "Modern Rock"],
+  "city": "Rochester",
+  "contact": {
+    "email": "mikelord14610@yahoo.com"
+  },
+  "Show Availability": "Open"
 },
 {
-Name: PushFire
-Genre: Post-Hardcore
-Location: Rochester
-Contact Info: pushfireband@gmail.com
-Facebook: www.facebook.com/pushfireband
-Show Availability: Friday - Sunday (Weekdays negotiable!)
+  "name": "PushFire",
+  "genres": "Post-Hardcore",
+  "city": "Rochester",
+  "contact": {
+    "email": "pushfireband@gmail.com",
+    "facebook": "www.facebook.com/pushfireband"
+  },
+  "availability": "Friday - Sunday (Weekdays negotiable!)"
 },
 {
-Name: Red Letter Statement
-Genre: Rock
-Location: Rochester
-Contact Info: booking@redletterstatement.com
-Website: www.redletterstatement.com
-Show Availability: Email 
+  "name": "Red Letter Statement",
+  "genres": "Rock",
+  "city": "Rochester",
+  "contact": {
+    "email": "booking@redletterstatement.com",
+    "Website": "www.redletterstatement.com"
+  },
+  "availability": "Email" 
 },
 {
-Name: Red Sky
-Genre: Hard Rock
-Location: Rochester/South Counties
-Contact Info: http://redskyhardrock.com
-Website: http://redskyhardrock.com
-Show Availability: please call
+  "name": "Red Sky",
+  "genres": "Hard Rock",
+  "city": ["Rochester","South Counties"],
+  "contact": {
+    "email": "http://redskyhardrock.com",
+    "website": "http://redskyhardrock.com"
+  },
+  "availability": "Contact"
 },
 {
-Name: Ricky Richards & The Sound Organization
-Genre: Old school Soul and R&B
-Location: Rochester
-Contact Info: honestjohn@rocketpossum.com
-Facebook: www.facebook.com/rickyrichardsandthesoundorganization
-Show Availability: Any
+  "name": "Ricky Richards & The Sound Organization",
+  "genres": ["Old school Soul", "R&B"],
+  "city": "Rochester",
+  "contact": {
+    "email": "honestjohn@rocketpossum.com",
+    "Facebook": "www.facebook.com/rickyrichardsandthesoundorganization"
+    },
+  "availability": "Any"
 },
 {
-Name: Saints and Winos
-Genre: Heavy Rock/Doom
-Location: Rochester
-Contact Info: https://www.facebook.com/SaintsAndWinos
-Show Availability: Open
+  "name": "Saints and Winos",
+  "genres": ["Heavy Rock","Doom"],
+  "city": "Rochester",
+  "contact": {
+    "facebook": "https://www.facebook.com/SaintsAndWinos"
+  },
+  "availability": "Open"
 },
 {
-Name: Second Chances
-Genre: Pop Punk/Emo/Milk
-Location: Caledonia/Honeoye Falls/Rochester, NY
-Contact Info: bda226@gmail.com (585) 261-9573
-Facebook: https://www.facebook.com/SecondChancesBand
-Availability: We will play your bar mitzvah tomorrow.
+  "name": "Second Chances",
+  "genres": ["Pop Punk","Emo","Milk"],
+  "city": ["Caledonia","Honeoye Falls","Rochester, NY"],
+  "contact":{ 
+    "email": "bda226@gmail.com",
+    "facebook": "https://www.facebook.com/SecondChancesBand"
+    },
+  "availability": "We will play your bar mitzvah tomorrow."
 },
 {
-Name: Seeking Monte 
-Genre: Rock / Modern Rock
-Location: Rochester, NY
-Contact Info: Seekingmonte@gmail.com
-Reverbnation: http://www.reverbnation.com/seekingmonte
-Facebook: https://www.facebook.com/seekingmonte
-Twitter:  https://twitter.com/SeekingMonte
-Show Availability: Open
+  "name": "Seeking Monte",
+  "genres": ["Rock", "Modern Rock"],
+  "city": "Rochester, NY",
+  "contact": {
+    "email": "Seekingmonte@gmail.com",
+    "reverbnation": "http://www.reverbnation.com/seekingmonte",
+    "facebook": "https://www.facebook.com/seekingmonte",
+    "twitter":  "https://twitter.com/SeekingMonte"
+  },
+  "svailability": "Open"
 },
 {
-
-Name: SOFT COUGH
-Genre: janky pop / rock / lo-fi / post-punk / bedroom / garbage
-Location: Geneseo, NY
-Contact Info: https://www.facebook.com/softcough
-Show Availability: Open and ALWAYS looking to play shows
+  "name": "SOFT COUGH",
+  "genres": ["janky pop", "rock", "lo-fi", "post-punk", "bedroom", "garbage"],
+  "city": "Geneseo",
+  "contact": {
+    "facebook": "https://www.facebook.com/softcough"
+  },
+  "availability": "Open and ALWAYS looking to play shows"
 },
 {
-Name: Slut Week
-Genre: Emo-Punk-Ovarian Rock
-Location: Rochester/Fairport
- Contact Info:  https://www.facebook.com/pages/Slut-Week/855760394454125 doctorrobert95@gmail.com; 585-465-0869
-Show Availability: Ask
+  "name": "Slut Week",
+  "genres": ["Emo-Punk","Ovarian Rock"],
+  "city": ["Rochester","Fairport"],
+  "contact":  {
+    "facebook": "https://www.facebook.com/pages/Slut-Week/855760394454125", 
+    "email": "doctorrobert95@gmail.com"
+  },
+  "availability": "Ask"
 },
 {
-Name: southshore 
-Genre: Metalcore/melodic-hardcore
-Location: Rochester 
-Website: https://southshore.bandcamp.com/ 
-Contact Info: southshoreny@gmail.com - 585-478-0884 (Dave)
-Show Availability: Open
+  "name": "southshore",
+  "genres": ["Metalcore","melodic-hardcore"],
+  "city": "Rochester",
+  "contact": {
+    "bandcamp": "https://southshore.bandcamp.com/",
+    "email": "southshoreny@gmail.com"
+  },
+  "availability": "Open"
 },
 {
-Name: Spika 
-Genre: Old-School Heavy Metal 
-Location: Rochester 
-Contact Info: eric_pinales@yahoo.com - 585-645-8483 (Eric)
-Show Availability: Weekends
+  "name": "Spika", 
+  "genres": ["Old-School", "Heavy Metal"],
+  "city": "Rochester", 
+  "contact": {
+    "email": "eric_pinales@yahoo.com"
+  },
+  "availability": "Weekends"
 },
 {
-Name: The Stick Figures
-Genre: Alternative/Jam Band
-Location: Rochester
-Contact Info: jcaciriello@gmail.com, 585-227-7026 (Jerry)
-Show Availability: Open
+  "name": "The Stick Figures",
+  "genres": ["Alternative", "Jam Band"],
+  "city": "Rochester",
+  "contact": {
+    "email": "jcaciriello@gmail.com"
+  },
+  "availability": "Open"
 },
 { 
-Name: The Sycamore Four
-Genre: Indie Rock
-Location: Rochester
-Contact Info: Lou Englert - sweetlou316@hotmail.com
-Facebook: https://www.facebook.com/TheSycamoreFour
-YouTube: http://www.youtube.com/channel/UCqsn7PftWu8e7VeJorvZTjg
-Show Availability: Open
+  "name": "The Sycamore Four",
+  "genres": ["Indie" "Rock"],
+  "city": "Rochester",
+  "contact":{
+    "email": "sweetlou316@hotmail.com",
+    "facebook": "https://www.facebook.com/TheSycamoreFour",
+    "youtube": "http://www.youtube.com/channel/UCqsn7PftWu8e7VeJorvZTjg"
+  },
+  "availability": "Open"
 },
 {
-Name: This Is Home
-Genre: Metalcore/Hardcore
-Location: Rochester
-Music: http://www.bandpage.com/thisishometih
-Contact Info: thisishometih@gmail.com / Steve Hullings at steve@tecshows.com - 315-877-4339
-Show Availability: Open
+  "name": "This Is Home",
+  "genres": ["Metalcore", "Hardcore"],
+  "city": "Rochester",
+  "bandcamp": "http://www.bandpage.com/thisishometih",
+  "contact": {
+    "email": "steve@tecshows.com"
+  },
+  "availability": "Open"
+},
+  {
+  "name": "Throne of Wilderness",
+  "genres": "Folk Metal",
+  "city": "Buffchester",
+  "contact": {
+    "email": "throneofwilderness@gmail.com",
+    "bandcamp": "http://throneofwilderness.bandcamp.com",
+    "facebook": "https://www.facebook.com/ThroneOfWilderness"
+  },
+  "availability": "Ask"
 },
 {
-Name: Throne of Wilderness
-Genre: Folk Metal
-Location: Buffchester
-Contact Info: throneofwilderness@gmail.com
-Bandcamp: http://throneofwilderness.bandcamp.com
-Facebook: https://www.facebook.com/ThroneOfWilderness
-Show Availability: Ask
+  "name": "Through Lifeless Eyes",
+  "Genre": ["Progressive Metal", "thall"],
+  "city": "Rochester",
+  "availability": "Open"
 },
 {
-Name: Through Lifeless Eyes
-Genre: Progressive Metal/thall
-Location: Rochester
-Contact Info: Nick Rubin/ 585-200-6687
-Show Availability: Open
+  "name": "Tuurd",
+  "genres": ["Heavy" "slow"],
+  "city": "Rochester",
+  "contact": {
+    "email": "rnuuja@rochester.rr.com", 
+    "facebook": "https://www.facebook.com/Tuurds"
+  },
+  "availability": "Within Rochester almost any night"
 },
 {
-Name: Tuurd
-Genre: Heavy and slow
-Location: Rochester
-Contact Info: rnuuja@rochester.rr.com, https://www.facebook.com/Tuurds
-Show Availability: Within Rochester almost any night.
+  "name": "Valorous",
+  "genres": "Power Metal",
+  "city": "Rochester",
+  "contact": "https://www.facebook.com/valorousOfficial",
+  "website": "http://valorous.herokuapp.com/"
+  Show Availability: Open but contact us
 },
 {
-Name: Valorous
-Genre: Power Metal
-Location: Rochester
-Contact Info: https://www.facebook.com/valorousOfficial
-Website: http://valorous.herokuapp.com/
-Show Availability: Open but contact us
+  Name: Wholesale Kids
+  Genre: Small Format Acoustic Folk / Americana / Traditional
+  Location: Rochester
+  Contact Info: https://www.facebook.com/wholesalekidsband
+  Website: http://wholesalekids.bandcamp.com
+  Show Availability: Always, good for an acoustic opener.
 },
 {
-Name: Wholesale Kids
-Genre: Small Format Acoustic Folk / Americana / Traditional
-Location: Rochester
-Contact Info: https://www.facebook.com/wholesalekidsband
-Website: http://wholesalekids.bandcamp.com
-Show Availability: Always, good for an acoustic opener.
+  Name: Without Gravity
+  Genre: Hard Rock
+  Location: Rochester/Buffalo
+  Contact Info: WithoutGravityBand@Gmail.com
+  Show Availability: Pending
 },
 {
-Name: Without Gravity
-Genre: Hard Rock
-Location: Rochester/Buffalo
-Contact Info: WithoutGravityBand@Gmail.com
-Show Availability: Pending
+  Name: Zero Signal
+  Genre: Metal
+  Location: Rochester
+  Contact Info: www.facebook.com/zerosignalroc 
+  Show Availability: Open
 },
 {
-Name: Zero Signal
-Genre: Metal
-Location: Rochester
-Contact Info: www.facebook.com/zerosignalroc 
-Show Availability: Open
+  Name: Birds of a Feather
+  Genre:  Progessive MetalLocation: LeRoy/ RochesterContact info: www.facebook.com/bofofficialShow Availability: Availible after Feb 2015
 },
 {
-Name: Birds of a Feather
-Genre:  Progessive MetalLocation: LeRoy/ RochesterContact info: www.facebook.com/bofofficialShow Availability: Availible after Feb 2015
-},
-{
-Name: Weather, Or Whatever
-Genre: Punk/Emo/Post-Hardcore
-Location: Rochester/Syracuse
-Contact Info: https://www.facebook.com/weatherorwhateverband
-Website: https://weatherorwhatever.bandcamp.com/
-Show Availability: Open
+  Name: Weather, Or Whatever
+  Genre: Punk/Emo/Post-Hardcore
+  Location: Rochester/Syracuse
+  Contact Info: https://www.facebook.com/weatherorwhateverband
+  Website: https://weatherorwhatever.bandcamp.com/
+  Show Availability: Open
 }]
